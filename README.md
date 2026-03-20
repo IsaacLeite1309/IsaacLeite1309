@@ -1,6 +1,4 @@
-## Hi there 👋
-
- My name is Isaac!
+## Hi there, my name is Isaac!
 
 <!--
 **IsaacLeite1309/IsaacLeite1309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
